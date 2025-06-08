@@ -1,0 +1,348 @@
+inta-nshippu no keiken(1,2,3)
+
+1
+baiku seigyo shisutemu kaishū sofutowhea
+2023/08～2023/10（3ヶ月）			
+purojyekuto gaiyō: auto re-su de shiyōsuru baiku no seigyo shisutemu no puroguramu no irekae ya henkō o kuwaeru sofutowhea no kaihatsu.
+
+shinki / kison shisutemu: shinki shisutemu 
+kaihatsu shuhō: ajairu 
+tantō gyōmu: bakku endo 80 pa-sento furonto endo 20 pa-sento 
+kinō kaihatsu: 
+ -seigyo shisutemu to komyunike-shon ni yoru rojikku kaihatsu 
+ -fuairu no angōka tsu-ru kaihatsu 
+ -insuto-ru fuairu sakusei 
+Gui kaihatsu:
+ - mein pe-ji, puroguresu ba--, angōka tsu-ru no gamen, insuto-ru fuairu kaihatsu tesuto:
+ -baiku no emyure-ta to onaji mono o sakuseishi, emyure-ta to tsunaide tesuto o jisshi 
+dokyumento sakusei: (shōsai sekkeisho, furo-cha-to) 
+sankaku kōtei: yōken teigi, sekkei, puroguramingu, tantaitesuto, shisutemu tesuto	
+kaihatsu gengo: Python 
+furemuwa--ku / raiburari: Pyserial , Tkinter 
+shisutemu kankyō: Windows 10 , Visual Studio Code , Serial Utility , Virtual Port , Git , GitHub , Inno Setup	
+purogurama
+purojyekuto kibo:
+menba- kōsei: hitori 
+kikan: 3 kagetsu			
+			
+2
+2023/07～2023/09(3ヶ月)
+inta-n kanri shisutemu 
+purojyekuto gaiyō: inta-nshippusei no jōhō (shimei ya jūsho), renrakusaki, sanka kikan, tensū, purojyekuto naiyō, shiyō gijutsu nado o kanrisuru Web apuri no kaihatsu. 
+shinki / kison shisutemu: shinki shisutemu 
+kaihatsu shuhō: wotafo-ru 
+tantō gyōmu: bakku endo 100 pa-sento 
+-Db kaihatsu: 
+  -DB de-zain kaihatsu, shinki te-buru sakusei, karamu tsuika bakku endo to furonto endo no tōgō debaggu, tesuto jisshi 
+dokyumento sakusei: Srs, shōsai sekkeisho, furo-cha-to 
+sankaku kōtei: sekkei, puroguramingu, tantaitesuto, ketsugō tesuto, shisutemu tesuto			
+kaihatsu gengo: Php , HTML , SQL 
+shisutemu kankyō: Windows , MacOS , Mysql , PHPMyAdmin , Visual Studio Code , Firefox , Nginix , Apache Tomcat , Git , GitHub 
+purogurama
+- purojyekuto kibo 
+  menba- kōsei 4 nin 
+  kikan 3 kagetsu			
+			
+			
+3
+2020/03～2020/07（5ヶ月）
+hoken kaisha Web saito 
+purojyekuto gaiyō: hoken kaisha no Web saito kaihatsu. 
+shinki / kison shisutemu: shinki shisutemu 
+kaihatsu shuhō: ajairu 
+tantō gyōmu: 
+ -WordPress o shiyōshita Web saito kaihatsu, tesuto 
+ -saito kanrisha to kankyō settei, depuroi 
+ -Hostinger de Web saito o appu, domein sakusei Namecheap Ssl shōmeisho shutoku Namecheap nado
+dokyumento sakusei: Srs, furo-cha-to 
+sankaku kōtei: yōken teigi, sekkei, puroguramingu, ketsugō tesuto, shisutemu tesuto
+kaihatsu gengo: Html , CSS 
+fure-mu wa-ku raiburari: Wordpress 
+shisutemu kankyō:
+Windows 10 , Visual Studio Code , Hostinger , Namecheap , Cloudflare , Elementor , Smartsupp 
+purogurama 
+purojyekuto kibo 
+menba- kōsei: hitori 
+kikan: 5 kagetsu			
+			
+-----------------------------------			
+daigaku jidai no keiken	(4-9)		
+
+4
+2023/11～2024/04(6ヶ月)			
+			
+gomisute kanshi kamera 
+purojyekuto gaiyō: untenchū ni mado kara gomi o suteru hito o ninshikishite, bakkin o shiharawaseru tame no shisutemu kaihatsu. 
+shinki / kison shisutemu: shinki shisutemu 
+kaihatsu shuhō: ajairu 
+tantō gyōmu: 
+ -kinō kaihatsu: 
+   CRUD kinō (kuruma no bangō o tsukatte jōhō o mitsukeru) 
+ -Db kaihatsu 
+   DB dezain kaihatsu, shinki te-buru sakusei, karamu tsuika 
+ -furonto endo to moderu no tōgō 
+ -de-ta kuri-ningu 
+ -dokyumento sakusei Srs, Uml 
+sankaku kōtei: yōken teigi, sekkei, puroguramingu, tantaitesuto, ketsugō tesuto, shisutemu tesuto 
+
+kaihatsu gengo: Php , SQL , Python Html , CSS 
+fure-mu wa-ku / raiburari: Flask , Pandas 
+shisutemu kankyō: Windows 10 , MariaDB , Pycharm , Visual Studio Code , Google Colab , Firefox , Nginix , Apache Tomcat , Googledocs , GitHub 
+purogurama 
+purojyekuto kibo:
+menba- kōsei: 4 nin 
+kikan 6 kagetsu			
+			
+			
+5
+2022/07～2022/09(3ヶ月)			
+daigaku nabige-shonshisutemu 
+purojyekuto gaiyō: shinnyūsei nado ga kyanpasu-nai o idōsuru sapo-to o suru riaru-taimu no nabige-shonshisutemu no kaihatsu. 
+Vr to konpyu-ta bijon o shiyōshite yu-za- no genzai ichi o tokuteishi, mokuteki no basho made no kasō pasu o hyōjisuru shisutemu. 
+menba- ga kaihatsushita shisutemu o be-su ni daigakunai de shiyō dekiru yōni tsuika kaihatsu o jisshi. 
+shinki / kison shisutemu: shinki shisutemu 
+kaihatsu shuhō: ajairu 
+tantō gyōmu: 
+ -daigaku chizu o sakusei, chizu no suke-ringu to kyaribure-shon 
+ -tōgō tesuto, arufua tesuto 
+ -dokyumento sakusei: furo-cha-to, shi-kensuzu 
+sankaku kōtei: yōken teigi, sekkei, puroguramingu, tantaitesuto, ketsugō tesuto, shisutemu tesuto 
+
+kaihatsu gengo: Unity C# 
+fure-mu wa-ku / raiburari: Arcore , ARKit 
+shisutemu kankyō: Macos , Unity , Github 
+purogurama 
+purojyekuto 
+kibo menba- kōsei: futari
+kikan: 3sanka getsu
+
+6
+2022/12～2023/01(2ヶ月)
+shinri tesutoapuri 
+purojyekuto gaiyō: shinri gakusha ga shinri kensa o kantan ni jisshi dekiru mobairu apuri kaihatsu. 
+shinki / kison shisutemu: shinki shisutemu 
+kaihatsu shuhō: ajairu 
+tantō gyōmu: bakku endo 80 pa-sento furonto endo 20 pa-sento 
+tantō moju-ru: 
+ -shinri tesuto no sentaku kinō 9 shurui 
+ -apurike-shon nai he no kakushu tesuto no sōnyū 
+ -kekka no hyōji kinō 
+kinō kaihatsu: 
+ -shinri tesuto no kekka o keisansuru rojikku no kaihatsu 
+gamen kaihatsu: 
+ -ho-mu gamen, tesuto sentaku gamen, kekka hyōji gamen 
+dokyumento sakusei: furo-cha-to to shi-kensuzu 
+sankaku kōtei: yōken teigi, sekkei, puroguramingu, tantaitesuto, ketsugō tesuto, shisutemu tesuto 
+kaihatsu gengo: Kotlin 
+shisutemu kankyō: Windows 10 , Android Studio , Gradle , GitHub 
+Purojeko Leedar 
+purojyekuto 
+kibo menba- 
+kōsei 3 nin 
+kikan 2 kagetsu
+
+7
+2023/03～2023/06(3ヶ月)
+gyūnyū to nyūseihin no seizō kensaki mobairuapuri 
+purojyekuto gaiyō: rakunō nōkamuke gyūnyū to nyūseihin no seizō kensaki mobairu apuri no kaihatsu. hitsuyōna nyūseihin, ryō, gyūnyū no SNF to shibō no ne o nyūryokusuru to hitsuyōna genzairyō ga keisansareru apuri. 
+
+shinki / kison shisutemu: shinki shisutemu 
+tantō gyōmu: bakku endo 80 pa-sento furonto endo 20 pa-sento 
+kinō kaihatsu: seinyū seihin no seizō ni hitsuyōna genzairyō o keisansuru keisanki no kaihatsu 
+gamen kaihatsu: 
+hitsuyōna seinyū seihin no ryō, gyūnyū no hinshitsu Snf to shibō ne o nyūryokusuru gamen 
+dokyumento sakusei: furo-cha-to, shi-kensuzu sankaku kōtei yōken teigi, sekkei, puroguramingu, tantaitesuto, shisutemu tesuto 
+kaihatsu gengo: Kotlin 
+shisutemu kankyō: Windows 10 , Android Studio , Gradle , GitHub 
+PL 
+purojyekuto kibo 
+menba- kōsei: 4 nin 
+kikan 3 kagetsu
+
+
+8
+2022/12～2023/04(5ヶ月)
+
+ketsueki banku kanri shisutemu 
+purojyekuto gaiyō: ketsueki banku to byōin ga hitotsu no shisutemu otsūjite, hitsuyōna ketsueki o kantan ni chūmon, kanri dekiru shisutemu no kaihatsu. 
+
+shinki / kison shisutemu: shinki shisutemu 
+
+kaihatsu shuhō: wotafuro
+
+tantō gyōmu: bakku endo 70 pa-sento furonto endo 30 pa-sento 
+
+tantō moju-ru: yu-sa- ninshō, Db kaihatsu, byōin oyobi ketsueki banku no de-ta 
+shūshū sōnyū 
+kinō kaihatsu: 
+ -hitsuyōna ryō no ketsueki seihin o motteiru moyori no ketsueki banku o kensaku kinō 
+ -ketsueki seihin zaiko kanri 
+ -onrain chūmon kinō 
+ -ketsueki banku kensaku, ketsueki seihin kensaku, shinki yu-za- tsuika, ketsueki zaiko no kōshin nikansuru SQL kueri no kaihatsu 
+
+Db kaihatsu 
+ -de-tabe-su sekkei, atarashii te-buru no sakusei, karamu no tsuika 
+
+gamen kaihatsu 
+ -roguin gamen, sain appu gamen, yu-za- purofyi-ru gamen, yu-za- ketsueki zaiko gamen, chūmon gamen, ho-mupe-ji nado 
+
+sankaku kōtei: yōken teigi, sekkei, puroguramingu, tantaitesuto, ketsugō tesuto, shisutemu tesuto 
+
+kaihatsu gengo Php , HTML , CSS , SQL 
+shisutemu kankyō: Windows 10 , MariaDB , Visual Studio Code , Firefox , Nginix , Apache Tomcat , Googledocs , GitHub 
+
+PL 
+purojyekuto kibo: 
+menba- kōsei futari 
+kikan 5 kagetsu
+
+9
+2022/10～2022/12（3ヶ月）
+Whatsapp Web messe-jisukeju-ra- 
+purojyekuto gaiyō: tanjōbi ya shinnen nado no tokubetsuna hini, Whatsapp Web o shiyōshite shiteisareta hitobito ni messe-ji o sukeju-ru shi, jidōteki ni sōshinsuru shisutemu. 
+shinki / kison shisutemu: shinki shisutemu 
+tantō gyōmu: 
+ -de-ta sukureipingu jibun akaunto no apurinai no de-ta 
+ -messe-ji sukeju-ringu, messe-ji sōshin o okonau Python sukuriputo no kaihatsu Selenium o shiyōshite ru-chin o jikkō 
+
+dokyumento sakusei: furo-cha-to, shi-kensuzu sankaku kōtei sekkei, puroguramingu, tantaitesuto, shisutemu tesuto 
+
+kaihatsu gengo: Python 
+fure-mu wa-ku / raiburari: Selenium , Pandas shisutemu kankyō Windows 10 , Visual Studio Code , Github , Selenium 
+
+purogurama 
+purojyekuto kibo 
+menba- kōsei: hitori 
+kikan: 3 kagetsu
+
+
+1
+2023/08～2023/10（3ヶ月）
+プロジェクト概要： オートレースで使用するバイクの制御システムのプログラムの入れ替えや変更を加えるソフトウェアの開発。
+
+開発手法：アジャイル
+
+バックエンド80％　フロントエンド20％
+・機能開発
+　－制御システムとコミュニケーションによるロジック開発
+　－ファイルの暗号化ツール開発
+　－インストールファイル作成
+・GUI開発
+　－メインページ、プログレスバー、暗号化ツールの画面、
+　　インストールファイル開発
+・テスト
+　－バイクのエミュレータと同じものを作成し、エミュレータと
+　　繋いでテストを実施
+●開発言語：Python
+
+2
+2023/07～2023/09(3ヶ月)
+プロジェクト概要：インターンシップ生の情報（氏名や住所、連絡先、
+　参加期間、点数、プロジェクト内容、使用技術など）を管理するWeb
+　アプリの開発。
+●開発手法：ウォーターフォール
+●担当業務：バックエンド100％
+・DB開発
+　－DBデザイン開発、新規テーブル作成、カラム追加
+・バックエンドとフロントエンドの統合
+・デバッグ、テスト実施
+●開発言語：PHP, HTML, SQL
+
+3
+2020/03～2020/07（5ヶ月）
+プロジェクト概要：保険会社のWebサイト開発。
+●開発手法：アジャイル
+●担当業務：
+・WordPressを使用したWebサイト開発、テスト
+・サイト管理者と環境設定、デプロイ
+　－HostingerでWebサイトをアップ、ドメイン作成（Namecheap）
+　　SSL証明書取得（Namecheap）など
+●開発言語：HTML, CSS
+
+4
+2023/11～2024/04(6ヶ月)
+プロジェクト概要：運転中に窓からごみを捨てる人を認識して、罰金
+　を支払わせるためのシステム開発。
+●開発手法：アジャイル
+●担当業務：
+・機能開発
+　－CRUD機能（車の番号を使って情報を見つける）
+・DB開発
+　－DBデザイン開発、新規テーブル作成、カラム追加
+・フロントエンドとモデルの統合
+・データクリーニング
+●開発言語：PHP, SQL, Python, HTML, CSS
+
+5
+2022/07～2022/09(3ヶ月)	
+●プロジェクト概要：新入生などがキャンパス内を移動するサポートを
+　するリアルタイムのナビゲーションシステムの開発。
+　VRとコンピュータビジョンを使用してユーザーの現在位置を特定し、
+　目的の場所までの仮想パスを表示するシステム。
+　メンバーが開発したシステムをベースに大学内で使用できるように
+　追加開発を実施。
+●開発手法：アジャイル
+●担当業務：
+・大学地図を作成、地図のスケーリングとキャリブレーション
+・統合テスト、アルファテスト
+●開発言語：Unity C#
+
+6
+2022/12～2023/01(2ヶ月)
+プロジェクト概要：心理学者が心理検査を簡単に実施できるモバイル
+　アプリ開発。
+●開発手法：アジャイル
+●担当業務：バックエンド80％　フロントエンド20％
+・担当モジュール
+　－心理テストの選択機能（9種類）
+　－アプリケーション内への各種テストの挿入
+　－結果の表示機能
+・機能開発
+　－心理テストの結果を計算するロジックの開発
+・画面開発
+　－ホーム画面、テスト選択画面、結果表示画面
+●開発言語：Kotlin
+
+7
+2023/03～2023/06(3ヶ月)
+プロジェクト概要：酪農農家向け牛乳と乳製品の製造検査機モバイル
+　アプリの開発。必要な乳製品、量、牛乳のSNFと脂肪の値を入力すると
+　必要な原材料が計算されるアプリ。
+●担当業務：バックエンド80％　フロントエンド20％
+・機能開発
+　－生乳製品の製造に必要な原材料を計算する計算機の開発
+・画面開発
+　－必要な生乳製品の量、牛乳の品質（SNFと脂肪）値を入力する画面
+●開発言語：Kotlin
+
+8
+2022/12～2023/04(5ヶ月)
+プロジェクト概要：血液バンクと病院が一つのシステムを通じて、
+　必要な血液を簡単に注文、管理できるシステムの開発。
+●開発手法：ウォーターフォール
+●担当業務：バックエンド70％　フロントエンド30％
+・担当モジュール
+　－ユーザー認証、DB開発、病院および血液バンクのデータ収集/挿入
+・機能開発
+　－必要な量の血液製品を持っている最寄りの血液バンクを検索機能
+　－血液製品在庫管理
+　－オンライン注文機能
+　－血液バンク検索、血液製品検索、新規ユーザー追加、血液在庫の
+　　更新に関するSQLクエリの開発
+・DB開発
+　－データベース設計、新しいテーブルの作成、カラムの追加
+・画面開発
+　－ログイン画面、サインアップ画面、ユーザープロフィール画面、
+　　ユーザー血液在庫画面、注文画面、ホームページなど
+●開発言語：PHP, HTML, CSS, SQL
+9
+2022/10～2022/12（3ヶ月）
+プロジェクト概要：誕生日や新年などの特別な日に、WhatsApp Web
+　を使用して指定された人々にメッセージをスケジュールし、自動的に
+　送信するシステム。
+●新規/既存システム：新規システム
+●担当業務：
+・データスクレイピング（自分アカウントのアプリ内のデータ）
+・メッセージスケジューリング、メッセージ送信を行うPythonスクリプト
+　の開発（Seleniumを使用してルーチンを実行）
+●開発言語：Python

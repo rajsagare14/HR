@@ -1,0 +1,162 @@
+-------------------------------------------
+Internship
+-------------------------------------------
+-------------------------------------------
+1. Pravin Enterprise (2023/08 kara 2023/10)(sanka getsu gurai)
+-------------------------------------------
+daigakku no san nen sei no toki intanshippu toshite Pravin Entapuraizu toiu kaishya de [Baiku Kaizou Sofutoweya] toiu sofutoweya wo kaihatsushimashita.
+sore wa kawasaki no zeddo exu shiksu aar toiu baiku no seigyou shisutemu wo kaizou suru noni tsukimasu.
+----------- nanika dekimasu ka  -----------
+kono softoweya wo tsukatte, baiku wo se-ibi suru koto ga dekimasu.
+tatoeba race no mae, baiku no enjiniya ga kono softoweya wo tsukatte, baiku no toppu supeedo wo ditai ni jyu kiro hayaku naru youni chousei surukotoga dekimasu. soshite hokano buhin(parts) tatoeba ten-ka shisutemu ya kuki kyoukyu shisutemu nado  wo torikaeshita ya tsuikashita baai kousei(calibration) suru koto mo dekimasu.
+
+python wo tsukatte hitori de kaihatsushita sofutoweya desu.
+gamen wa tkinter 
+----------- doyatte tsukaimasu ka -----------
+softoweya wo tsukau hito wa baiku no seigyo shisutemu wo kaihatsu suru ya kaizou suru hito desu. tatoeba baiku no enjiniya desu.
+
+mazu baiku no enjiniya wa jibun de seigyo shisutemu no fairu wo tsukurimasu. soshite pasocon wo seigyo shisutemu to tsunaide, softoweya de fairu wo appu shite, kaizo toiu botan wo osu to
+juppun inai ni seigyo shisutemu wo kaizoushite, baiku ga hayaku hashirareru youni narimasu.
+--------------appeal point----------------------
+watashiwa goman rupee de kono sofutoweya wo urimashita.goman rupee wa daitai jyuman en gurai no okane desu.
+kono okane wo tsukatte jibun no skiru wo appu suru tameni hon to online couza wo katte nokori(remainig) wa chokinshimashita.
+
+----------- tsukatta gijitsu  -----------
+paison wo  tsukatte, kono softoweya wo tsukurimashita.
+
+----------- taihen na koto -----------
+kono softoweya wo tsukuru toki, taihen na koto wa kono softoweya no gamen wo tsukuru koto deshita.
+sono toki, gamen wa, douyatte tsukurimasu ka, shira nakatta kara, taihen deshita.
+sono ato watashiwa toushyokan he itte, softoweya no gamen ni tsuite hon wo yonde, goi wo memoshite, YouTube de shirabete gamen no tsukurikata wo manabimashita.
+
+----------- omoshiro katta koto ----------- 
+omoshiro katta koto seigyou shisutemni tsuite manabu koto deshita.
+tatoeba seigyo shisutemu ni tsukawareteiru fairu wa ichi MegaBaito no fairu desu ga tsuushin shiteiru toki seigyo shisutemu wa ichidokini saidai 8 baito dake yomemasu.kono youna koto takusan manabimashita.
+ 
+(tsuushin suru-communication)
+
+
+-------------------------------------------
+-------------------------------------------
+2 Alpha Labs Pvt. Ltd (2023/07 kara 2023/09)(sanka getsu gurai)
+-------------------------------------------
+Daigakku no san nen sei no toki Alpha Labs toiu kaisha de Intern Kanri Shisutemu toiu webu peji wo kaihatsushimashita.
+sore wa inta-nn no jyoho wo kanri shite hitotsu tokoro de hozon shimasu . so suru to intaan no jyouhou wo shiraberu koto wa benri ni narimasu.
+
+Yakuwari
+
+watashino yakuwari wa detabasu wo tsukutte furanto endo to tsunagaru koto deshita.
+SQL,PHP to HTML wo tsukatte webu pe-ji wo tsukurimashita
+MySQL sa-ba wo tsukaimashita.
+kaisha kara moratta shiryou ni dono botan wo osu to donna kekka ga dete hoshi to kaita mono wo yominagara kaihatsu shimashita. SQL querry wo tsukutte tesuto mo shimashita.
+hokano 3nin no chimu memba no yakuwari wa furanto endo no kaihatsu deshita.
+-------------------------------------------
+-------------------------------------------
+3 Midas Investment Consultancy (2020/03 kara 2020/07)(goka getsu gurai)
+-------------------------------------------
+Midas Investment Consultancy toiu korapuru ni aru kaisha no branding no tameni kaisha no webusaito wo kaihatsushimashita.
+kono kaisha wa watashino haha no kaisha desu. haha wa hoken no conserutento desu.
+kono webusaito ni kaisha no joho toka haha no reireki toka, hoken no joho nado ga arimasu. kono webusaito ni aru fo-rumu wo tsukatte consarutento to kaigi wo yoyaku suru koto mo dekimasu.
+
+tsukatta gijutsu wa HTML,CSS、と　ワードプレス　という開発ツール　でした。
+-------------------------------------------
+-------------------------------------------
+4 Gomi sute kanshi kamera (2023/11 kara 2024/04)(roka getsu gurai)
+-------------------------------------------
+daigaku yon nensei no toki," gomi sute kanshi kamera" toiu whebuapuri o kai hatsu shimashita. 
+
+kono（gomi sute kanshi kamera toiu） webu apuri, kuruma kara soto ni gomi o suteru hito no gazu wo herasutameni kaihatsushimashita .kono apuri wo tsukatte kuruma kara soto ni gomi wo tsuteru hito no kuruma no jouho wo mitsukete,
+sono hito no denwa bangō ni bakkin o harau yōni oshiraseshimasu.
+
+Python , Sql, Html Css to Php toiu kaihatsu gengo o tsukatte kore o kaihatsushimashita. 
+san nin de kaihatsushite 6 rokka getsu kakarimashita. 
+
+watashi no yaku wari wa detabe-su o kaihatsushite sore o furantoendo to tsunageru koto deshita. 
+
+korekara tsukaikatata o Setsu mei shimasu. 
+kono whebusaito wo hiraku to purojyekuto no naiyou to douga toiu botan ga miemasu. sono botan o osu to dōga o appu　saremasu.
+ 
+sokode dōro no ironna tokoro ni　oite aru kamera kara saba- ni hozon sareta dōuga o appushite, anaraizu toiu botan o osu to gomi o suteta kuruma no dō ga o miru koto ga dekimasu.
+
+soshite user tatoeba keisatsukan wa sono douga wo mite, honto ni gomi wo suteta ka wo mite, gomi wo sutete itara, bakkin toiu botan wo oshimasu, sutete inakattara sugi no douga toiu botan wo oshimasu.
+
+bakkin toiu botan wo osu to douga kara kuruma no numbaa wo mitsukete, 
+kono numbaa wo tsukatte kuruma no joho wo sagashite, 
+kuruma no shoyusha no denwabango ni bakkin wo harau yoni, oshirase shimasu.
+
+Kotoba
+Speed Limit - せいげんそくど　seigen sokudo
+Follow - まもる　mammoru mamorimasen
+生ごみ　－namagomi
+menkyuou - license (menkyou wo mada tottenai hito mo untenshimasu)
+
+    -----------  taihen na koto -----------
+kono purojekto wo hajimeta toki watashitachiwa douyatee tsukutta houga ii kana, to omotte shinpaishimashita. kore wa taihen na koto deshita. demo sono ato watashitachiwa purojecto no furochato wo kaite, sore wo tsukatte purojeko wo kaihatsu shimashita, furochato de kaihatsu no wa kantan ni narimashita.
+    -----------  omoshiro katta koto -----------  
+kono purojekto wo tsukuru toki omoshiro katta koto wa team membaa ga kaita codo wo kakunin suru koto deshita. 
+kakunin suru toki atarashii koto wo manabimashita kara desu.
+
+-------------------------------------------
+-------------------------------------------
+5 Amichi Nabigetyon shisutemu (2022/07 kara 2022/09)(sanka getsu gurai)
+-------------------------------------------
+hiroi biru no naka ni [kai] ga ooi desu kara guguru mappu nado wo tsukau koto ga deimasen.kono youna tokoro de nabigeshon wo suru tameni daigaku kara hajimeyo to omotte kono apuri wo kaihatsu shimashita.
+Amichi daigaku ni nabigeshon wo suru tameni amichi navigation no apuri wo kaihatsushimashita.
+hitori no tomodachi to kore wo kaihatsushimashita
+kono apuri wa kakuchou genjitsu (AR) wo tsukatte ketai no gamen de　yu-sa ni yajirushi wo misete ikitai basho made ni annaishimasu.
+tatoeba nyugakuseiwa daigakuno shiranai biru ni hairimasu, kono biru wa totemo hiroi desu. nyugakuseiwa shokudo made ikitai desu ga, douyatte ikou ka zenzen wakarimasen.
+kono youna mondai ga aru toki amichi nabigetshon apuri wo tsukau kotoga dekimasu. kono apuri wa denwa no kamera wo tsukatte koko kara shokudo made gamen de yajirushi wo misete shokudo wo sagasu youni annaishimasu.
+
+amichi daigaku no nyugakusei ya gakuseitachi no kazouku nado no tameni kono apuri wo kaihatsushimashita
+
+Unity, C#,ARCore, etc
+-------------------------------------------
+-------------------------------------------
+6 shinri(psychology) tesuto apuri (2022/12 kara 2023/01)(nika getsu gurai)
+-------------------------------------------
+daigaku no toki shinri wo benkyoushiteiru gakusei ga hokano gakusei tachi ni shinri no kensa wo ukesasemashita. sono toki watashi ga kami to pen wo tsukate kensa wo uketeiru hito wo mite, [apuri no houga ii kana] to omoimashita.shinri no gakusei tachi to hanashite, kono youni tesuto suru toki nani ka mondai ga aru ka wo kikimashita. 
+
+[tesuto no ato takusan keisan (calcuations)shinakereba naranai] toui hanashi wo kite, kono apuri wo 
+kaihatsu shiyo to omoimashita.
+kono apuri no naka ni kyu tesuto ga arimasu. ketai de kono tesuto wo ukete 5 byou inai ni kekka wo moraimasu.
+
+Kotlin, Android Studio
+-------------------------------------------
+-------------------------------------------
+7 Miruku metorikusu (2023/03 kara 2023/06)(sanka getsu gurai)
+-------------------------------------------
+ぎゅうにゅう　と　乳製品　の　せいぞう　けいさん wo するために使う　アプリ
+gyunyu to nyuseihin no seizou keisan wo suru tameni tsukau apuri desu. 
+
+watashino chichi wa nyuseihin no consorutento desu. mainichi miruku puranto ni nyuseihin no seizou keisan wo shinakereba naranai kedo itsumo keisan wo suru tameni ekuseru ya calculetar wo tsukaunowa muzukashi kara kono apuri wo kaihatsu shimashita. shitai keisan no botan wo oshite deta wo nyurokushite calculate toiu botan wo osu to kekka ga demasu
+tatoeba 100 kiro bata- wo tsukuritai tokoi, bata- toiu botan wo oshite, nyuroku tokoro de bata- no omosa to gyunyu no abura ya FAT no pasento wo nyuroku shite calculate toiu botan wo osu to bata wo tsukuru tameni hitsuyo gyunyu no omosa wa kekka ni demasu.
+
+Kotlin, Android Studio
+ 
+
+-------------------------------------------
+-------------------------------------------
+8 Ketsueki Ginkou Kanri Shisutemu (2022/12 kara 2023/04)(goka getsu gurai)
+-------------------------------------------
+indo no Ketsueki Ginkou wa jibun no ginkou no tameni kanri shisutemu wo tsukatteimasu. 
+hokano ketsuki genko no koto wa zenzen wakaranai kara jiko ya shujutsu no toki hitsuyouna ketsueki wo mitsukerunowa muzukashiku narimasu.
+watashi wa ketsueki ginkou de tsukawarete iru apurikeeshon no hyoujunka ga juuyou da to omoimasu.
+watashiga kaihatsushita shita shisutemu wa (centralized)[ichi-gen-teki na kanri shisutemu] mitai na wbusaito desu.
+jibun no gingko ni nan ri-ta(liter) to donna type no kitsu-eki ga aru ka, toka, donna typu no wa hitsuyou ka, toka, hitsuyouna ketsu-eki wa donna ginko ni aru ka nado wo shiraberu koto ga dekimasu. hokano ketsu-eki genko kara chumon suru koto mo dekimasu.
+
+HTML,CSS,PHP,SQL mo hitori no chimu memba to kaihatsu shimashita.
+watashino yakuwari wa deta-besu kaihatsu to SQL querry wo kaku koto deshita.
+-------------------------------------------
+-------------------------------------------
+9 Whatsapp Web Automation (2022/10 kara 2022/12)(sanka getsu gurai)
+-------------------------------------------
+tanjyoubi toka omatsuri no oiwai wo ageru tameni kaihatsushimashita.
+
+Selenium, Python
+-------------------------------------------
+-------------------------------------------
+10 Amazon Chosha Scrapper (2022/08 kara 2022/10)(nika getsu gurai)
+-------------------------------------------
+selenium furemwak wo benkyousuru tameni kaihatsushimashita.
+-------------------------------------------
+Selenium, Python

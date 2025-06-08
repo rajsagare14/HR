@@ -1,0 +1,55 @@
+hajimemashite rajiwarudan to moshimasu
+honjitsu wa ojikan itadaki, arigatou gozaimasu.
+korekara watashino po-toforio wo shoukai itashimasu. douzo yoroshiku onegaishimasu
+(next slide no 2)
+
+watashiwa indono korapuru shi no shushin desu.
+kyonen mumbai no Aamichi Daigaku wo sotsugyou shimashita. senmonwa compyuta saensu deshita.
+shumi wa dokshyo desu.
+(next slide no 3)
+
+kore kara purofi-ru sheeto ni aru purojekto wo setsumeishimasu.
+
+(next slide no 4)
+purofiru sheeto ni aru purojeto 1 wa baiku seigyo shisutemu kaishū sofutowhea desu.
+
+kore wa auto re-su de shiyōsuru baiku no seigyo shisutemu no puroguramu no ire kae ya henkō o kuwa eru sofutowhea desu
+kono purojecto ni 
+ seigyo shisutemu to komyunike-shon ni yoru rojikku kaihatsu to
+ fuairu no angōka tsu-ru kaihatsu to
+ insuto-ru fuairu wo sakusei shimashita 
+ soshite gamen kaihatsu no naka de mein pe-ji, puroguresu ba--, angōka tsu-ru no gamen, insuto-ru fuairu no gamen wo kaihatsu shimashita.
+kaihatsu gengo wa Python de hitori de kaihatsushite sankagtsu kakarimashita.
+
+(next slide 5)
+purofiru sheeto ni aru purojeto 2 wa inta-n kanri shisutemu toiu webu kaihatsu no purojekto desu
+inta-nshippusei no jōhō tatoeba shimei ya jūsho), renrakusaki, sanka kikan, tensū, purojyekuto naiyō, shiyō gijutsu nado o kanrisuru Web apuri deshita.
+
+kono purojecto ni 
+ DetaBesu de-zain kaihatsu, shinki te-buru sakusei, koramu tsuika, bakku endo to furonto endo no tōgō debaggu, to tesuto jisshi wo yarimashita.
+
+kaihatsu gengo wa Php , HTML , SQL de menba- kosei wa 4nin deshita. purojecto kikan wa sankagtsu deshita.
+
+(next slide 6)
+purofiru sheeto ni aru purojeto 3 wa hoken kaisha Web saito toiu webu kaihatsu no purojekto desu
+indo no korapu-ru ni aru hoken kaisha no Web saito kaihatsushimashita
+
+kono purojecto ni 
+ WordPress o shiyōshita Web saito kaihatsu shimashita
+ kaihatsu gengo wa Html to CSS de Wordpress toiu tsu-ru mo tsukaimashita.
+hitori de kaihatsushite gokkagtsu kakarimashita.
+
+(next slide 7)
+purofiru sheeto ni aru purojeto 3 wa gomisute kanshi kamera toiu webu apuri desu.
+kore wa 
+untenchū ni mado kara gomi o suteru hito o ninshiki shite, bakkin o shihara waseru tame no shisutemu desu. 
+kono purojecto ni 
+CRUD kinō no naka de (kuruma no bangō o tsukatte jōhō o mitsukeru) noni kaihatsu shimashita 
+   DB dezain to, shinki te-buru sakusei, to karamu tsuika mo yarimashita
+ -furonto endo to moderu no tōgō to 
+ -de-ta kuri-ningu mo shimashita.
+kaihatsu gengo wa Php , SQL , Python Html , CSS deshita
+yon nin no chimu de yatte 6 kagetsu kakarimashita.
+
+(next slide 8)
+

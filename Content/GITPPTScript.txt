@@ -1,0 +1,65 @@
+hajimemashite
+rajiwarudan to moshimasu. honjitsu ojikan itadaki, arigatou gozaimasu.
+kore kara watashino po-toforio wo shoukai shimasu
+douzo yoroshiku onegai ita-shimasu.
+
+watashino namae wa sagare rajiwarudan desu
+indo no ko-ra-pu-ru no shusshin desu.
+kyonen mumbai no amitei daigakku wo sotsugyou shimashita.
+senmonn wa conpyuta- saiEnsu deshita.
+watashino shumi wa dokusho desu.
+
+kore wa ko-ra-pu-ru desu.(slide change)
+korapuru wa nishi indo no maharashotora shu no minami ni arimasu.
+korapuru wa kai-botsu(sea level) 1kiro gurai desu.
+fuyu no toki kion wa 8dou~30dou no aida desu.
+natsu no toki 22dou~43dou no aida desu.
+hirokute midori ga ooi desu.
+yumeina tokoro wa maharakushimi kami sama no otera to shivaji maharaj toiu oosama oshiro desu
+yumeina tabemono wa miseru pao desu.
+
+watashino shumi wa doksho desu.
+2021nin shi gatsu kara yomihajimemashita. 
+ima made 60satsu ijo no hon wo yomimashita. ichiban suki no hon no namae wa tata sutories desu. 
+sukina jyanru wa bijinesu to keizai to gijyutsu desu.
+
+ima made hakken no purojekto wo kaihatsushita koto ga arimasu
+kore kara sono nanka no futatsu purojeto wo shokai shio to omotte orimasu.
+
+ichiban mei no purojekto wa baiku seigyo shisutemu kaishū sofutowhea 
+touiu deskutoppu sofutoweya desu.
+kore wa kawasaki no zeddo exu shiksu aar toiu baiku no seigyou shisutemu wo kaizou suru noni tsukaimasu. 
+
+mokuteki wa auto re-su de shiyousuru baiku wo, re-su suru noni
+seigyo shisutemu no puroguramu wo ire kaeru koto desu.
+sou suru to baiku no toppu supeedo wo, ditai ni jyu kiro hayaku naru youni, chousei surukotoga dekimasu. soshite hokano buhin(parts), tatoeba ten-ka shisutemu ya,
+ku-ki kyoukyu shisutemu nado  wo, torikaeshita ya tsuikashita baai kousei(calibration) suru koto mo dekimasu.
+
+(next slide)
+kono purojecto ni 
+ seigyo shisutemu to komyunike-shon ni yoru, rojikku kaihatsu to,
+ fuairu no angōka tsu-ru no kaihatsu to,
+ insuto-ru fuairu wo sakusei shimashita. 
+ soshite gamen kaihatsu no naka de, mein pe-ji, puroguresu ba--, angōka tsu-ru no gamen, insuto-ru fuairu no gamen wo kaihatsu shimashita.
+kaihatsu gengo wa Python de hitori de kaihatsushite sankagtsu kakarimashita.
+
+(next slide)
+tsugi wa gomisute kanshi kamera toiu purojekto desu.
+kore wa kuruma kara soto ni gomi o suteru hito no gazu wo herasutameni kaihatsushimashita.
+kore kara purojekto no sukureenshotto wo tsukatte setsumei shimasu.
+
+kono whebusaito wo hiraku to purojyekuto no naiyou to douga toiu botan ga miemasu. sono botan o osu to dōga o appu　saremasu.
+ 
+kokode dōro no ironna tokoro ni　oite aru, kanshi kamera kara, saba- ni hozon sareta dōuga o appushite, anaraizu toiu botan o osu to gomi o suteta kuruma no dō ga o miru koto ga dekimasu.
+
+soshite user tatoeba keisatsukan wa sono douga wo mite, honto ni gomi wo suteta ka wo mite, gomi wo sutete itara, bakkin toiu botan wo oshimasu,
+
+kono botan wo osu to douga kara kuruma no numbaa wo mitsukete, 
+kono numbaa wo tsukatte kuruma no joho wo sagashite, 
+kuruma no shoyusha no denwabango ni bakkin wo harau yoni, oshirase shimasu.
+
+watashi wa kono purojekto ni de-tabesu kaihatsu, SQL querry kaihatsu, php kaihatsu nado wo yarimashita.
+(next slide)
+sore igai wa mitsu no andoroido apuri to mitsu no webusaito wo kaihatsu shita koto mo arimasu.
+
+ijo desu douzo yoroshiku onegai itashimasu.
